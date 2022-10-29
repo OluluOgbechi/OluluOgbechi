@@ -14,7 +14,7 @@ Skills: Data Analysis with Python, Data Entry, Business Intelligence, Power BI, 
 
 
 ### 🌱 I’m currently learning:
-- Python
+- Machine Learning with Python
 - SQL
 - R
 
