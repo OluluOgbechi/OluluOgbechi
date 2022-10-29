@@ -1,23 +1,34 @@
 ### Hi there 👋
-My name is Naomi, I am a Data Analyst.
+My name is Naomi and I am a CFI-certified Business Intelligence & Data Analyst.
 
 ### What I do 👷‍♂️
-I extract insights from data using Python.
+I collect, clean, and interpret data sets in order to uncover valuable insights that can be used to answer questions and solve problems.
 
-Skills: Data Analysis with Python, Data Entry, Business Intelligence, Power BI, SQL, Power Query.
+Skills: Data Analysis with Python, Data Entry, Business Intelligence, Power BI, SQL, and Power Query.
 
-- 🔭 I’m currently working on a project about child mortality using data from Gapminder. 
-- 🌱 I’m currently learning more about Python, SQL and R. 
-- 📫 How to reach me: oluluxmina@gmail.com
 
-<!--
-Here are some ideas to get you started:
+### 🔭 I’m currently working on:
+- Getting my BSC in Business Administration from the University of Lagos
+- Exploring and analyzing the influence of consumer sales promotion on consumer patronage intentions.
+- Taking an Applied Data Science course with WorldQuant University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### 🌱 I’m currently learning:
+- Python
+- SQL
+- R
+
+
+### 👯 I’m looking to collaborate on:
+Projects involving data collection. data entry, data cleaning, or data analysis.
+
+
+### 💬 Ask me about:
+- Business Intelligence
+- Data Analytics
+- Data Entry
+
+
+### 📫 How to reach me: 
+oluluxmina@gmail.com
+
