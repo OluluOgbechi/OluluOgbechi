@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Naomi and I am a CFI-certified Business Intelligence & Data Analyst.
+My name is Naomi and I am a CFI-certified Business Intelligence Data Analyst.
 
 ### What I do 👷‍♂️
 I collect, clean, and interpret data sets in order to uncover valuable insights that can be used to answer questions and solve problems.
