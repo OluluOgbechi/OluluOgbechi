@@ -27,8 +27,9 @@ Projects involving data collection. data entry, data cleaning, or data analysis.
 - Business Intelligence
 - Data Analytics
 - Data Entry
-
+- Research
 
 ### 📫 How to reach me: 
 oluluxmina@gmail.com
+
 
