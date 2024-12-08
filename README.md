@@ -4,11 +4,11 @@ My name is Naomi and I am a CFI-certified Business Intelligence Data Analyst.
 ### What I do 👷‍♂️
 I collect, clean, and interpret datasets in order to uncover valuable insights that can be used to answer questions and solve problems.
 
-Skills: Data Analysis, Graphic Design, Business Intelligence, Power BI, SQL, and Ms Excel/Google Sheets.
+Skills: Data Analysis, Python, Graphic Design, Business Intelligence, Power BI, SQL, and Ms Excel/Google Sheets.
 
 
 ### 🔭 I’m currently working on:
-- Improving and refining my skills in data science
+- Improving and refining my skills in data analytics and data science
 
 
 ### 🌱 I’m currently learning:
